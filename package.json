@@ -1,0 +1,19 @@
+{
+  "name": "@alex-playground/components",
+  "version": "1.0.0",
+  "description": "Components",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "components",
+    "ui",
+    "react"
+  ],
+  "author": "alubchuk",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
